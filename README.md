@@ -75,7 +75,8 @@
 
 <p align="center">
   <a href="mailto:rafael.s.mendes.1108532311@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vinicius-marcos-bertunho-da-silva-85172134a(https://www.linkedin.com/in/rafael-santos-5a2aa4349/)"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-marcos-bertunho-da-silva-85
+    172134a(https://www.linkedin.com/in/rafael-santos-5a2aa4349/)"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -83,3 +84,6 @@
 <p align="center" style="color:#38bdf8; font-size:1.1rem;">
   <b>Vamos criar algo incrível juntos?</b>
 </p>
+
+📈status
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-1108&show_icons=true&theme=tokyonight)
