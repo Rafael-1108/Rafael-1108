@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#FF3B3B; font-size:2.7rem;">
-  Hey, eu sou o Rafinha!<br>
+  Hey, eu sou o Rafael!<br>
   <span style="font-size:1.4rem; color:#aaa;">Seja bem-vindo ao meu espaço dev 🚀</span>
 </h1>
 
